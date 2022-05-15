@@ -1,0 +1,12 @@
+Guidelines for submission
+-------------------------
+
+- Submit one (zipped) folder that contains eight csv-files, one for each test set for both models you've developed. If you only want to participate with one model, that's fine too. Just hand in four files in that case.
+- Name each submission file after its respective test set, but add "_neural" and "_traditional" depending on whether the predictions were made by your neural or your traditional model. E.g. "test_IN.csv" becomes "test_IN_neural.csv" and "test_IN_non.csv"
+- Format each submission file like the "sample submission.csv" file I've included: csv-file, "id,label" as header, comma as delimiter, the ids of the posts in the first column and your predicted labels ("NOT" or "OFF") in the second column.
+- Hand in your folder though the assignment page on teams.
+- The deadline is tommorrow evening, at midnight (12 PM on Tuesday 19th of April).
+
+Some extra remarks about the test sets: the in-domain test set will be immediately recognisable to you. It is drawn from the same body of data as your trainin data was. The three other test sets have been drawn from other online platforms (even though they have "tweet" in the header; I just formatted them in the same way as the training data to make it easier for you to include them in the pipelines). The provenance of these data (and the selection criteria used to decide whether or not to keep a post in the test set) will be released to you after the shared task, along with the test labels, so you can reflect on that in your final papers and presentations.
+
+Good luck!
