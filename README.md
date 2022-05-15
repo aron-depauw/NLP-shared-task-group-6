@@ -13,6 +13,6 @@ The NLP-shared-task-group-6 folder contains all relevant files, including a jupy
 
 ## Authors
 
-Aron Depauw
-Valentina Ravest Córdova
+Aron Depauw,
+Valentina Ravest Córdova,
 Anqi Yu
