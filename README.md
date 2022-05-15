@@ -8,7 +8,7 @@ This paper presents the design decisions taken and challenges encountered in the
 
 ## Repository overview
 
-The NLP-shared-task-group-6 folder contains all relevant files, including a jupyter notebook with code for the classical classifier (Group-6-neural), a jupyter notebook for neural classifier (Group-6-neural), and all other relevant files, data, images, etc.
+The NLP-shared-task-group-6 folder contains all relevant files, including a jupyter notebook with code for the classical classifier (Group-6-neural), a jupyter notebook for neural classifier (Group-6-neural), and all other relevant files, data, images, etc. Please note that the Notebooks appended with "Submission" contain the models used for generating the prediction that were submitted to the shared task.
 
 
 ## Authors
